@@ -78,9 +78,9 @@ margin-right: 90px;
   color: black;
 }
 
-.text {
+#slogon {
   position: absolute;
-  bottom: 420px;
+  bottom: 220px;
   left: 16px;
 }
 
@@ -96,8 +96,24 @@ body {
 h2, p {
   color: white;
   font-weight: bolder;
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 20px;
+}
+
+#gallery {
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 20px;
 }
 
 #contact {
   text-align: center;
+  padding: 20px;
+  padding-bottom: 20px;
 }
+
